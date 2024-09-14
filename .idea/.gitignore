@@ -6,3 +6,5 @@
 *.iml
 *.class
 target/
+class/
+vcs.xml
